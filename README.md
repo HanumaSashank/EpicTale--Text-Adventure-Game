@@ -4,7 +4,7 @@ A dynamic, AI-powered interactive fiction game where players craft unique narrat
 ## Overview
 EpicTale combines genre-driven storytelling with adaptive AI to create immersive, branching narratives tailored to user choices. Players select their genre, customize characters, and explore personalized storylines generated in real-time.
 
-##Features
+## Features
     •	5+ Genres: Mystical Thriller, Mythological Epics, Time Travel Adventure, and more.
     •	Personalized Gameplay: 50+ combinations for player identity.
     •	AI-Powered Narratives: Dynamic story arcs generated using OpenAI APIs.
