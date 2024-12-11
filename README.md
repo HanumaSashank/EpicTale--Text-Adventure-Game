@@ -54,8 +54,7 @@ Prerequisites
     •	Styling: CSS Modules
 
 ## Contributors
-    •	Vishwanth Reddy Jakka - 
-[GitRepoLink](https://github.com/vishwaj1)
+    •	Vishwanth Reddy Jakka - [GitRepoLink](https://github.com/vishwaj1)
     •	Rohith Reddy Mada - [GitRepoLink](https://github.com/rohithmada00)
     •	Hanuma Sashank Samudrala - [GitRepoLink](https://github.com/HanumaSashank)
     •	Satvik Reddy - [GitRepoLink](https://github.com/Msathvik007)
