@@ -61,6 +61,8 @@ Prerequisites
     
 For any issues or questions, please raise a GitHub issue or contact us at vishwaj1@umbc.edu.
 [GitHub Repository Link](https://github.com/vishwaj1/EpicTale)
+Game Poster![IFTG_Poster](https://github.com/user-attachments/assets/540282de-d8a6-4257-b9c9-8f02a334eea9)
+
    
 
  
